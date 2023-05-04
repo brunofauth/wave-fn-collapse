@@ -1,0 +1,7 @@
+chain_width = 90
+fn_call_width = 90
+imports_layout = "Vertical"
+struct_lit_width = 50
+imports_granularity = "Item"
+use_field_init_shorthand = true
+
